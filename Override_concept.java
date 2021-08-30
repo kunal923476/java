@@ -1,5 +1,5 @@
 
-public class Override {
+public class Override_concept {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
