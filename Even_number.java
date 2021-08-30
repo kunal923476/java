@@ -2,7 +2,7 @@ package Pro3;
 
 import java.util.Scanner;
 
-public class Even {
+public class Even_number {
 
 	int a;
 	
