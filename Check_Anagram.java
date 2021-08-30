@@ -1,13 +1,13 @@
-package Pro4;
+package day4;
 
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Anagram {
+public class Check_Anagram {
 	
 	String str;
 	
-	static void anagram(char []s1,char []s2)
+	static void Check_anagram(char []s1,char []s2)
 	{
 		int n1=s1.length;
 		int n2=s2.length;
@@ -41,7 +41,7 @@ public class Anagram {
 		
 		char []s5= {'m','o','o','n'};
 		char []s6= {'s','u','n'};
-		anagram(s5,s6);
+		Check_anagram(s5,s6);
 		
 	}
 
